@@ -4,7 +4,7 @@
 ### I'm Flutter Developer 👨‍💻
 <a href="[VELOG](https://velog.io/@ddoh_k)" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 
-- 🏫 My University : [Sogang University](https://sogang.ac.kr/).
+- 🏫 My University : [Sogang University](https://sogang.ac.kr/)
 - 🎓 My Majors : Mathematics, Compuer Science
 - 🔭 My Current Company : [Cash Walk](https://cashwalk.com/)
 - 🔭 My Current Projects : Cash Walk, KOING
