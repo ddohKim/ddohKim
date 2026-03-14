@@ -7,8 +7,7 @@
 - 🏫 My University : [Sogang University](https://sogang.ac.kr/)
 - 🎓 My Majors : Mathematics, Compuer Science
 - 🔭 My Current Company : [CashWalk](https://cashwalk.com/)
-- 👨‍💻 My Current Role : Flutter Team Leader in CashWalk
-- ⌨️ My Current Projects : Cash Walk, KOING
+- 👨‍💻 My Current Role : Mobile2 Team Leader in CashWalk
 - 💬 Email1 : kdh2646@naver.com
 - 💬 Email2 : k.dh@cashwalk.io
   
